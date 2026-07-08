@@ -1,0 +1,11 @@
+num = 5
+print("5 * 1 =", num)
+print("5 * 2 =", num * 2)
+print("5 * 3 =", num * 3)
+print("5 * 4 =", num * 4)
+print("5 * 5 =", num * 5)
+print("5 * 6 =", num * 6)
+print("5 * 7 =", num * 7)
+print("5 * 8 =", num * 8)
+print("5 * 9 =", num * 9)
+print("5 * 10 =", num * 10)
